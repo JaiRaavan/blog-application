@@ -1,0 +1,35 @@
+1. username = hitler
+   email    = jai@gmail.com
+   password = qwert123
+
+2. username = amma
+   email    = jan@gmail.com
+   password = amma@123
+
+3. username = nanna
+   email    = nanna@gmail.com
+   password = poiuy123
+
+4. username = udemy
+   email    = udemy@gmail.com
+   password = user@123
+
+5. username = ammoru
+   email    = ammoru@gmail.com
+   password = amma@123
+
+6. username = 
+   email    = 
+   password = 
+
+7. username = 
+   email    = 
+   password = 
+
+8. username = 
+   email    = 
+   password = 
+
+9. username = 
+   email    = 
+   password = 
